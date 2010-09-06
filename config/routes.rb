@@ -1,4 +1,6 @@
 DSeungjinNet::Application.routes.draw do
+  get "journal/index"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
